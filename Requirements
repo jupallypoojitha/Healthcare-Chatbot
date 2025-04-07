@@ -1,1 +1,13 @@
-#
+Imports and Setup
+
+random: For generating random numbers.
+json: For handling JSON data.
+pickle: For serializing and deserializing Python objects.
+nltk (Natural Language Toolkit): For NLP tasks.
+tensorflow: For building and training the neural network.
+WordNetLemmatizer: For lemmatizing words to ensure consistent analysis.
+Sequential model (Keras): For simplifying the neural network structure.
+Dense, Dropout, and Activation layers: For building the network.
+SGD (Stochastic Gradient Descent): For optimizing the model.
+
+language used python
